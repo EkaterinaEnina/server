@@ -1,0 +1,15 @@
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/models/exist/ExistRequest.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/models/exist/ExistResponse.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/models/login/AuthRequest.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/models/login/User.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/tests/ExistTest.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/tests/LoginTest.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/tests/UserTest.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/AuthHelper.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/Config.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/HttpClientHelper.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/JsonUtils.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/RandomUtils.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/RequestBuilder.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/ResponseParser.java
+/Users/ekaterinaenina/server/apitests/src/test/java/com/example/utils/Secrets.java

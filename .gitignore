@@ -46,3 +46,6 @@ ssl/
 
 # Misc
 .DS_Store
+
+#Secret
+SecretsData.java
